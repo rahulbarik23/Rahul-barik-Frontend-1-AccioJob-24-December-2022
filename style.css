@@ -1,0 +1,15 @@
+.navbar-brand img{
+    width: 40px;
+    border-radius: 15px;
+    
+}
+.text-muted{
+    float: right;
+}
+.flex-buttun{
+    border-radius: 5px; 
+}
+
+img{
+    width: 80px;
+}
